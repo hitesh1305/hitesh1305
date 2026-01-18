@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated, sincere and dedicated third-year Information Technology student. Seeking internship opportunities to apply my<br>knowledge and gain hands-on experience.<br>I am currently Machine Learning, Data Engineering, Artificial Intelligence.
+Motivated, sincere and dedicated third-year Information Technology student. Seeking internship opportunities to apply my<br>knowledge and gain hands-on experience.<br>I am currently learning Machine Learning, Data Engineering, Artificial Intelligence.
 
 
 ## 🌐 Socials:
